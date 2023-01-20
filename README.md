@@ -1,0 +1,2 @@
+# baisic
+Ai assistant
